@@ -1,0 +1,93 @@
+{
+  "langName": "اردو (پاکستان)",
+  "global": {
+    "unknown": "نامعلوم"
+  },
+  "smallPage": {
+    "language": {
+      "header": "زبان منتخب کریں"
+    },
+    "theme": {
+      "header": "تھیم منتخب کریں",
+      "dark": "گہرا",
+      "light": "ہلکا",
+      "system": "سسٹم کے مطابق"
+    },
+    "errorh": {
+      "buttons": {
+        "copy": "کاپی کریں",
+        "clear": "تمام لاگز صاف کریں"
+      },
+      "header": "غلطی کی تاریخچہ",
+      "placeholder": "کوئی غلطی لاگ موجود نہیں!"
+    }
+  },
+  "page": {
+    "home": {
+      "header": "صفحہ اول",
+      "status": {
+        "notWorking": "کام نہیں کر رہا",
+        "ok": "کام کر رہا ہے",
+        "partially": "جزوی طور پر کام کر رہا"
+      },
+      "info": {
+        "version": "ورژن",
+        "root": "روٹ عمل درآمد",
+        "zygote": {
+          "injected": "داخل کیا گیا",
+          "notInjected": "داخل نہیں کیا گیا",
+          "unknown": "نامعلوم"
+        }
+      }
+    },
+    "modules": {
+      "header": "ماڈیولز",
+      "notAvaliable": "فی الحال کوئی ماڈیول Zygisk استعمال نہیں کر رہا۔",
+      "arch": "معماری: "
+    },
+    "actions": {
+      "header": "عمل",
+      "monitorButton": {
+        "start": "شروع کریں",
+        "stop": "روکیں",
+        "pause": "وقفہ دیں"
+      },
+      "monitor": "مانیٹر",
+      "status": {
+        "tracing": "ٹریسنگ ہو رہی ہے",
+        "stopping": "روکا جا رہا ہے",
+        "stopped": "روک دیا گیا",
+        "exiting": "بند ہو رہا ہے",
+        "unknown": "نامعلوم"
+      }
+    },
+    "settings": {
+      "header": "ترتیبات",
+      "font": {
+        "header": "سسٹم فونٹ فعال کریں",
+        "description": "یہ آپشن موجودہ ویب انٹرفیس میں سسٹم فونٹ فعال کرے گا۔ نوٹ: FlipFont کے ساتھ مطابقت نہیں ہو سکتی۔"
+      },
+      "theme": {
+        "header": "تھیم",
+        "description": "ویب انٹرفیس کے لیے تھیم منتخب کریں"
+      },
+      "language": {
+        "header": "زبان",
+        "description": "اپنی پسند کی زبان منتخب کریں"
+      },
+      "logs": {
+        "header": "غلطی کی تاریخچہ",
+        "description": "تمام غلطی لاگز دیکھیں"
+      },
+      "credits": {
+        "module": "ماڈیول ڈیولپر",
+        "original": "اصل ماڈیول ڈیولپر",
+        "web": "ویب انٹرفیس ڈیولپر"
+      },
+      "license": {
+        "module": "ماڈیول لائسنس",
+        "web": "ویب انٹرفیس لائسنس"
+      }
+    }
+  }
+}
